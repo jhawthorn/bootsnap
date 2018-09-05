@@ -6,3 +6,5 @@ gemspec
 group :development do
   gem 'rubocop'
 end
+
+gem 'activesupport'
